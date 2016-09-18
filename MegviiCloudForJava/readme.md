@@ -1,0 +1,1 @@
+megviicloudlibrary.jar为这个帮助的jar包，用户将它添加到自己的工程内即可。android studio可以添加MegviiCloudLibrary为一个Module，依赖后即可使用
